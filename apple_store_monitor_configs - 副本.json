@@ -1,0 +1,43 @@
+{
+  "selected_products": {
+    "MQ1C3ZA/A": [
+      "iPhone 14 Pro",
+      "256GB 暗紫色"
+    ],
+    "MQ0M3ZA/A": [
+      "iPhone 14 Pro",
+      "256GB 太空黑"
+    ],
+    "MQ0W3ZA/A": [
+      "iPhone 14 Pro",
+      "256GB 銀色"
+    ]
+  },
+  "selected_area": "hongkong",
+  "exclude_stores": [
+  ],
+  "notification_configs": {
+    "dingtalk": {
+      "access_token": "a718237004b886bd29969bcc6eeee7afa69ed8f1bc505a7dbab8e2f6113da9b0",
+      "secret_key": "SECb679cfdff7436e91d0d1b00918b5713064c9bac96b2eb89a398c498fdf2932d7"
+    },
+    "telegram": {
+      "chat_id": "",
+      "bot_token": "",
+      "http_proxy": ""
+    },
+    "bark": {
+      "url": "",
+      "query_parameters": {
+        "url": null,
+        "isArchive": null,
+        "group": null,
+        "icon": null,
+        "automaticallyCopy": null,
+        "copy": null
+      }
+    }
+  },
+  "scan_interval": 8,
+  "alert_exception": false
+}
