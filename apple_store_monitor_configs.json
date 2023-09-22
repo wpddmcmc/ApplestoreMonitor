@@ -1,16 +1,8 @@
 {
   "selected_products": {
-    "MQ1C3ZA/A": [
-      "iPhone 14 Pro",
-      "256GB 暗紫色"
-    ],
-    "MQ0M3ZA/A": [
-      "iPhone 14 Pro",
-      "256GB 太空黑"
-    ],
-    "MQ0W3ZA/A": [
-      "iPhone 14 Pro",
-      "256GB 銀色"
+    "MTQA3CH/A": [
+      "iPhone 15 Pro",
+      "256GB 原色钛金属"
     ]
   },
   "selected_area": "Hong Kong",
@@ -18,8 +10,8 @@
   ],
   "notification_configs": {
     "dingtalk": {
-      "access_token": "a718237004b886bd29969bcc6eeee7afa69ed8f1bc505a7dbab8e2f6113da9b0",
-      "secret_key": "SECb679cfdff7436e91d0d1b00918b5713064c9bac96b2eb89a398c498fdf2932d7"
+      "access_token": "c971ddbc2f3fd587f84cdf99acfac5f3753fb0b608405fe8738895082c9e1143",
+      "secret_key": "SEC52ded67baf05763543625791c29aa947c2ced9a28079b66aba0f4be7503589cf"
     },
     "telegram": {
       "chat_id": "",
